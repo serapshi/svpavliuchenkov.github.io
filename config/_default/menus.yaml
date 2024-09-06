@@ -5,18 +5,12 @@
 
 main:
   - name: Обо мне
-    url: /
+    url: /#about
     weight: 10
-  - name: Статьи
-    url: /#papers
-    weight: 11
   - name: Мысли
     url: /#talks
     weight: 12
-  - name: Новости
-    url: /#news
-    weight: 13
-  - name: Эксперименты
+  - name: Опыт
     url: experience/
     weight: 20
   - name: Проекты
