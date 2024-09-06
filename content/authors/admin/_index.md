@@ -28,21 +28,23 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - icon: academicons/research-gate
+    url: https://www.researchgate.net/profile/Sergei-Pavliuchenkov?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6ImhvbWUiLCJwcmV2aW91c1BhZ2UiOiJsb2dpbiIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://elibrary.ru/;
+    label: eLibrary
+  - icon: academicons/mendeley
+    url: https://www.mendeley.com/search/
+  - icon: brands/academia
+    url: https://independent.academia.edu/SergeiPavliuchenkov
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/serapshi
+  - icon: brands/arxiv
+    url: https://arxiv.org/user/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=ru&user=mpLvvFoAAAAJ&scilu=&scisig=ANI4uE0AAAAAZtq2DLQw_LpCR7hgRPwQsQALVcs&gmla=AC6lMd-Hsbh7AAJhwLMAZ4bkVL75LDYdIDVYP8CcarYbFyKKo2BKFH3SU9IhNCp8EBZYGZ6P3JtJZ05kCkh0jG6KKMefhOk5aGl9WrBppHFXLokRvuuHSvZvTPXHfI8Zsrxl68rl&sciund=16294625035915473630
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0009-0008-8860-5886
 
 interests:
   - Компьютерная Алгебра
