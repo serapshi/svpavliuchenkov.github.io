@@ -1,6 +1,6 @@
 ---
-title: Пост о прошлой недели
-summary: Неделя прошла замечательно! 
+Title: Last week's post
+summary: It was a great week! 
 date: 2024-09-01
 
 # Featured image
@@ -12,26 +12,26 @@ authors:
   - admin
 
 
-tags:
-  - Жизнь
+Tags:
+  - Life
 ---
 
 Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
-### Встреча выпускников АФШ
-- Самым ярким на этой недели была традиционная встреча выпускников, узнал много нового о том, кто и чем занимается сейчас, а также кто и где был за последнее время. Жизнь, надо сказать, у всех насыщенная.
-1. Был традиционный первосентябрьский пирог от мамы Димы Андреева. Спасибо большое за такую вкусноту!🥮👍
-2. Про свой стартап по разработке и производству датчиков смещения опор нефтетрубопровода нам рассказала Ангелина Тресоква. 🚀🚀🚀
-3. Ира Клопова-Сапоровская не только защитила диплом, но и успела съездить в Сербию на летнюю школу по космологии, которую проводили Научная станция Петница. Ира поделилась опытом участия в англоязычной школе и рассказала, насколько важно для науки и личного развития иметь возможность общаться с международным комьюнити ✈🌎
-4. Стася Топчиева и Тамара Молярова, выиграв тревел-грант, побывали в ЮАР на Генеральной ассамблее Международного астрономического союза, который не так давно прошел в Кейптауне. Конечно же, они там не просто на пингвинов смотрели, но сделали научные доклады. 🐧🐧🐧
-5. Глеб Переверзев, Катя Токарева и Артем Запорожец ничего  не рассказали о том, как на машине съездили в САО РАН на конференцию. Видимо, тоже ездили не просто посмотреть на родные места. 🚗
+### AFSH reunion
+- The highlight this week was the traditional reunion, learned a lot about who and what they are doing now, as well as who and where they have been recently. Life, it must be said, is busy for everyone.
+1- There was a traditional First September cake from Dima Andreev's mom. Thank you so much for such deliciousness 🥮👍
+2. Angelina Tresokva told us about her startup on development and production of oil pipeline support displacement sensors. 🚀🚀🚀🚀🚀
+3. Ira Klopova-Saporovska not only defended her diploma, but also managed to go to Serbia for the summer school on cosmology, which was held by the Petnica Science Station. Ira shared her experience of participation in the English-speaking school and told how important it is for science and personal development to be able to communicate with the international community ✈🌎
+4. Stasya Topchieva and Tamara Molyarova, having won a travel grant, visited South Africa for the General Assembly of the International Astronomical Union, which was held not so long ago in Cape Town. Of course, they didn't just look at penguins there, but made scientific presentations. 🐧🐧🐧
+5. Gleb Pereverzev, Katya Tokareva and Artem Zaporozhets did not tell anything about how they went by car to SAO RAS for the conference. Apparently, they didn't just go to see their native places either. 🚗
 
 
 
-### И немного о моем невезении 
-- Меня с врачом заинтересовал один витамин в моей крови, иза-за чего, неделю назад я сходил, и сдал анализ крови в поликлинике. Но прийдя на прием выяснилось, что медсестра отметила мне другие анализы, что весьма прискорбно, из-за чего пришлось сегодня сдать кровь повторно .  
+#### And a little bit about my bad luck. 
+- My doctor and I were interested in one vitamin in my blood, and because of that, a week ago I went and took a blood test at the polyclinic. But when I came to the appointment I found out that the nurse had marked me for other tests, which is very unfortunate, so I had to take blood again today.  
 
 
 

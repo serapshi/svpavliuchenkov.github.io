@@ -8,6 +8,6 @@ tags:
   - FDM
 ---
 
-FDM: новый пакет для численного решения ОДУ. Модифицирую библиотеку посвященную таюлицам Бутчера.
+FDM: a new package for numerical solution of ODEs. Modifying the library dedicated to Butcher's lists.
 
 <!--more-->

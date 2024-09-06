@@ -1,6 +1,6 @@
 ---
-title: Язык разметки Markdown.
-summary: Научиться оформлять отчёты с помощью легковесного языка разметки Markdown легко!
+title: Markdown markup language.
+Summary: Learning how to design reports with the lightweight Markdown markup language is easy!
 date: 2023-11-24
 math: true
 authors:
@@ -11,26 +11,26 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-## Базовые сведения о Markdown
-- Чтобы создать заголовок, используйте знак ( # )
-- Чтобы задать для текста полужирное начертание, заключите его в двойные звездочки.
-- Чтобы задать для текста курсивное начертание, заключите его в одинарные звездочки
-- Чтобы задать для текста полужирное и курсивное начертание, заключите его в тройные
-звездочки.
-- Блоки цитирования создаются с помощью символа >:
-- Неупорядоченный (маркированный) список можно отформатировать с помощью звездочек или тире.
-- Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка.
-- Упорядоченный список можно отформатировать с помощью соответствующих цифр
-- Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка
-- Синтаксис Markdown для встроенной ссылки состоит из части [link text] , представляющей текст гиперссылки, и части (file-name.md) – URL-адреса или имени файла, на который дается ссылка
-- Markdown поддерживает как встраивание фрагментов кода в предложение, так и их размещение между предложениями в виде отдельных огражденных блоков. Огражденные блоки кода — это простой способ выделить синтаксис для фрагментов кода. Общий формат огражденных блоков кода
-- Верхние и нижние индексы записываются как А\~2\~0 и 10\^19\^.
-- Внутритекстовые формулы делаются аналогично формулам LaTeX.
-## Обработка файлов в формате Markdown
-- Для обработки файлов в формате Markdown будем использовать Pandoc https://pandoc.org/. Конкретно, нам понадобится программа pandoc , pandoc-citeproc https://github.com/jgm/pandoc/releases, pandoc-crossref; https://github.com/lierdakil/pandoc-crossref/releases.
-- Преобразовать файл README.md можно следующим образом: - pandoc README.md -o README.pdf
+## Markdown Basics
+- To create a title, use the ( # ) sign.
+- To bold text, enclose it in double asterisks.
+- To italicize text, enclose it in single asterisks.
+- To bold and italicize text, enclose it in triple asterisks.
+asterisks.
+- Citation blocks are created by using the > symbol:
+- An unordered (bulleted) list can be formatted with asterisks or dashes.
+- To nest one list within another, add an indentation for the items in the child list.
+- An ordered list can be formatted with appropriate numbers
+- To nest one list in another, add an indentation for the items in the child list
+- The Markdown syntax for an embedded link consists of a [link text] part representing the hyperlink text, and a (file-name.md) part representing the URL or filename of the file being linked to.
+- Markdown supports both embedding code fragments in a sentence and placing them between sentences as separate enclosed blocks. Fenced code blocks are an easy way to emphasize syntax for code snippets. The general format of enclosed code blocks
+- Upper and lower indices are written as A\~2\~0 and 10\^19\^.
+- In-text formulas are done in the same way as LaTeX formulas.
+## Processing Markdown files
+- We will use Pandoc https://pandoc.org/ to process Markdown files. Specifically, we will need the program pandoc , pandoc-citeproc https://github.com/jgm/pandoc/releases, pandoc-crossref; https://github.com/lierdakil/pandoc-crossref/releases.
+- Convert the README.md file as follows: - pandoc README.md -o README.pdf
 
 
-## Заключение
+## Conclusion
 
-- При создании таких файлов, главное не бояться ошибаться и пробовать создавать идеальные отчеты. Надеюсь мой текст поможет вспомнить важные места в синтаксисе Markdown. 
+- When creating such files, the main thing is not to be afraid to make mistakes and try to create perfect reports. I hope my text will help you to remember important places in Markdown syntax. 

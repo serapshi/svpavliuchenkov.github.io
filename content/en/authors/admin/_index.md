@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Сергей Витальевич Павлюченков 
+Title: Sergei Pavliuchenkov 
 
 
 # Full name (for SEO)
-first_name: Сергей
-last_name: Павлюченков
+first_name: Sergei
+last_name: Pavliuchenkov
 
 # Status emoji
 status:
@@ -18,22 +18,22 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Студент
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: РУДН
+  - name: RUDN
     url: https://www.rudn.ru/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: academicons/research-gate
+  - icon: academics/research-gate
     url: https://www.researchgate.net/profile/Sergei-Pavliuchenkov?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6ImhvbWUiLCJwcmV2aW91c1BhZ2UiOiJsb2dpbiIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
   - icon: at-symbol
-    url: https://elibrary.ru/;
+    url: https://elibrary.ru/
     label: eLibrary
-  - icon: academicons/mendeley
+  - icon: academics/mendeley
     url: https://www.mendeley.com/search/
   - icon: brands/academia
     url: https://independent.academia.edu/SergeiPavliuchenkov
@@ -41,58 +41,58 @@ profiles:
     url: https://github.com/serapshi
   - icon: brands/arxiv
     url: https://arxiv.org/user/
-  - icon: academicons/google-scholar
+  - icon: academics/google-scholar
     url: https://scholar.google.com/citations?hl=ru&user=mpLvvFoAAAAJ&scilu=&scisig=ANI4uE0AAAAAZtq2DLQw_LpCR7hgRPwQsQALVcs&gmla=AC6lMd-Hsbh7AAJhwLMAZ4bkVL75LDYdIDVYP8CcarYbFyKKo2BKFH3SU9IhNCp8EBZYGZ6P3JtJZ05kCkh0jG6KKMefhOk5aGl9WrBppHFXLokRvuuHSvZvTPXHfI8Zsrxl68rl&sciund=16294625035915473630
-  - icon: academicons/orcid
+  - icon: academons/orcid
     url: https://orcid.org/my-orcid?orcid=0009-0008-8860-5886
 
-interests:
-  - Компьютерная Алгебра
-  - Космология
-  - Машинное обучение
-  - Криптовалюта
+Interests:
+  - Computer Algebra
+  - Cosmology
+  - Machine Learning
+  - Cryptocurrency
 
 education:
-  - area: Бакалавриат, Математика и компьютерные науки.
-    institution: Российский университет дружбы народов
+  - Area: Bachelor's degree, Mathematics and Computer Science.
+    institution: Peoples' Friendship University of Russia
     date_start: '2023-01-09'
     date_end: 
     summary: |
-      Занимаюсь компьютерной алгеброй, под руководством [Малых Михаила Дмитриевича](https://malykhmd.neocities.org/).
+      I study computer algebra under the supervision of [Mikhail Dmitrievich Malykh](https://malykhmd.neocities.org/).
     button:
-      text: 'Изучить работу'
+      text: 'Explore the work'
       url: 'https://github.com/malykhmd/fdm'
 
 
-  - area: Астрофизическая школа им. О. Верходанова.
-    institution: Фонд "Траектория"
+  - area: O. Verkhodanov Astrophysical School.
+    institution: Trajectory Foundation
     date_start: '2020-08-04'
     date_end: '2023-08-24'
-    summary: В конце учебы защитил работу посвященную распределению ПАУ в ИККТ. 
+    Summary: At the end of my studies I defended a paper on the distribution of PAHs in IKKT. 
 
       
 Experience:
-  - position: Разработчик
-    company_name: РУДН
+  - position: Developer
+    company_name: RUDN
     company_url: 'https://www.rudn.ru/'
     company_logo: ''
     date_start: 2023-10-17
     date_end: ''
-    summary: Написание кода подмодуля Butcher_list модуля FDM. 
+    summary: Writing code for Butcher_list submodule of FDM module. 
       
-  - position: Разработчик
-    company_name: РУДН
+  - position: Developer
+    company_name: RUDN
     company_url: 'https://www.rudn.ru/'
     company_logo: ''
     date_start: 2024-07-10
     date_end: ''
-    summary: Написание кода бота на Pyhton для уведомление научных сотрудников о новых грантах.
+    summary: Writing a Pyhton bot code to notify researchers about new grants.
       
     
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+# Add your own SVG icons to `assets/media/icons/`.
 skills:
-  - name: Технические навыки
+  - name: Technical skills
     items:
       - name: Python
         description: ''
@@ -106,56 +106,56 @@ skills:
         description: ''
         percent: 37
         icon: circle-stack
-  - name: Хобби
+  - name: Hobby
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Скейтбординг
+      - name: Skateboarding
         description: ''
         percent: 67
         icon: skateboard
-      - name: Коты
+      - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Фотография
+      - name: Photography
         description: ''
         percent: 73
         icon: camera
 
 languages:
-  - name: Русский
+  - name: Russian
     percent: 100
-  - name: Английский
+  - name: English
     percent: 80
-  - name: Немецкий
+  - name: German
     percent: 35
 
 # Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Add/remove as many awards below as you like.
+# Only `title`, `awarder`, and `date` are required.
+# Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 'Астрофизическая школа им О. Верходанова.'
+  - title: The O. Verkhodanov Astrophysical School. Verkhodanov.
     url: https://astroschool.space/
     date: '2023-08-20'
-    awarder: САО РАН
+    awarder: SAO RAS
     icon: datacamp
     summary: |
       Learned:
-      - Узнал, как устроена вселенная.
-      - Научился считать массу черной дыры.
-      - Выучил все созвездия на небе.
-  - title: 'Введение в программирование (C++)'
+      - Learned how the universe works.
+      - Learned how to calculate the mass of a black hole.
+      - Learned all the constellations in the sky.
+  - title: 'Introduction to Programming (C++)'
     url: https://stepik.org/course/363/promo
     certificate_url: https://stepik.org/certificate/df032f47ba315803c12ca86172c58ee48d8ad108.pdf
     date: '2020-12-01'
-    awarder: Яндекс
+    awarder: Yandex
     icon: C++
     summary: |
-      Научился программировать на C++ разного рода констукции, от циклов до структур. 
+      Learned to program in C++ different kinds of constructions, from loops to structures. 
 ---
 
 ## About Me
 
-Интересуюсь теоретическими задачами науки, но больше увлекаюсь прикладными исследованиями. Веду здоровый образ жизни, открыт к критике и новым знакомствам. Люблю аниме и котов.
+I am interested in theoretical problems of science, but more interested in applied research. I lead a healthy lifestyle, open to criticism and new acquaintances. I like anime and cats.

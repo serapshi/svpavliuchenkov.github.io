@@ -1,20 +1,20 @@
 ---
-title: Пост о прошлой недели
-summary: Каждую неделю стараюсь становиться на 1% лучше!
+Title: Last week's post
+summary: Trying to be 1% better every week!
 date: 2023-10-26
 authors:
   - admin
-tags:
-  - Обзор
-  - Слепая печать
+Tags:
+  - Review
+  - Blind Print
   - 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-На этой недели уловил себя на мысли, что хочу подтянуть свой навык слепой печати, в последствии, только этим и позанимался.
-## Слепая печать
-- Я считаю, что без навыка слепой печати в наше время не обойтись, это то, чем должен владеть каждый. Для развития и тренировок я использую этот замечательный сайт [EdClub](https://www.edclub.com/). На нем можно найти много курсов с разным содержанием для людей всех возрастов. Но мой выбор пал на классический курс этого сервиса - TypingJungle. На этой недели я занимался, целых, 22 часа с упражнениями этого курса, и единственное, что я могу сказать, так это то, что я всем доволен.
-- В данный момент моя средняя скорость печати - 40 слов в минуту. Интересно каких результатов я достигну через год, если смогу успешно превратить это в хобби!
+Caught myself thinking this week that I wanted to tighten up my blind typing skill, subsequently, that's all I've been practicing.
+## Blind typing
+- I believe that the skill of blind typing is a skill that everyone should have. I use this great site [EdClub](https://www.edclub.com/) for development and training. On it you can find a lot of courses with different content for people of all ages. But my choice fell on the classic course of this service - TypingJungle. This week I have been practicing for 22 hours with the exercises of this course, and the only thing I can say is that I am satisfied with everything.
+- At the moment my average typing speed is 40 words per minute. I wonder what I will achieve in a year if I can successfully turn this into a hobby!
 
 ## Did you find this page helpful? Consider sharing it 🙌

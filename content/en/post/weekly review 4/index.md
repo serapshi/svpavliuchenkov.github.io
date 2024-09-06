@@ -1,19 +1,20 @@
 ---
-title: Пост о прошлой недели
-summary: Иногда важно подумать на что ты тратишь свое время
+Title: Last week's post
+summary: Sometimes it's important to think about what you're spending your time on.
 date: 2023-12-26
 authors:
   - admin
-tags:
-  - Обзор
-  - Стресс
+Tags:
+  - Review
+  - Stress
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Сегодня расскажу о слегка грустной неделе.
+Today I'm going to tell you about a slightly sad week.
 
-## Почему важно не следить за временем
-- Эта неделя получилась грустной, из-за большого количества дел, что я удачно набрал. Преодоление стресса важная тема, что заслуживает длинного поста, но сегодня не об этом. Последствия моей лени я прочуствовал на себе очень хорошо, а именно, 14 часов работы в день оказалось весьма стрессово, но я не отчаился, так как понимаю, что после того как закончу смогу отдохнуть хотя бы 2 дня(этого не будет достаточно).Урок, что я вынес для себя на этой недели, так это то, что нельзя чтобы принебрежение обязаннастями превратилось в привычку. Поэтому с этой недели внесу это в список еженедельного самоконтроля. Надеюсь вы тоже станете чуть дисциплинирование, как и я после этого.
+## Why it's important not to keep track of time
+- This week turned out to be a sad week, due to the large amount of things I've been fortunate enough to accumulate. Overcoming stress is an important topic that deserves a long post, but that's not what today is about. I felt the consequences of my laziness very well, namely, 14 hours of work a day was very stressful, but I am not discouraged, because I realize that after I finish I will be able to rest at least 2 days (it will not be enough).The lesson that I learned this week is that you can not make neglecting responsibilities a habit. So starting this week, I'm going to put it on my weekly self-checklist. Hopefully you'll become a little more disciplined like I am after this.
 
 ## Did you find this page helpful? Consider sharing it 🙌
+
