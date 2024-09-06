@@ -16,6 +16,6 @@ main:
   - name: Проекты
     url: projects/
     weight: 30
-  - name: Преподование
+  - name: Препaдование
     url: teaching/
     weight: 40
