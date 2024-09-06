@@ -69,7 +69,7 @@ education:
     summary: В конце учебы защитил работу посвященную распределению ПАУ в ИККТ. 
 
       
-  Experience:
+Experience:
   - position: Разработчик
     company_name: РУДН
     company_url: 'https://www.rudn.ru/'
