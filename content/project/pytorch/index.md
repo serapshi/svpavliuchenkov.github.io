@@ -1,13 +1,12 @@
 ---
-title: PyTorch
+title: Каталог пульсаров
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://github.com/serapshi
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - AstroPhysics
+  - Python
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Стараюсь создать качественный каталог пульсаров на Python.
 
 <!--more-->
