@@ -12,10 +12,31 @@ baseURL: 'https://example.com/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ru
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+languages:
+  ru:
+    contentDir: content/ru
+    disabled: False
+    languageCode: ru-Latn
+    languageDirection: ltr
+    languageName: Русский
+    params:
+      subtitle: Справочники, учебники и пояснения
+    title: Проектная документация
+    weight: 1
+  en:
+    contentDir: content/en
+    disabled: False
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+    title: Project Documentation
+    weight: 2
 
 ############################
 ## ADVANCED
