@@ -19,7 +19,6 @@ en:
       - name: Bio
         url: /#about
         weight: 10
-      - name: Papers
       - name: Talks
         url: #talks
         weight: 12
